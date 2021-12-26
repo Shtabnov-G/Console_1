@@ -4,7 +4,6 @@ C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_2
 C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_21\bin\Debug\net6.0\Console_1_Shtabnov_ISP_21.dll
 C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_21\bin\Debug\net6.0\ref\Console_1_Shtabnov_ISP_21.dll
 C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_21\bin\Debug\net6.0\Console_1_Shtabnov_ISP_21.pdb
-C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_21\obj\Debug\net6.0\Console_1_Shtabnov_ISP_21.csproj.AssemblyReference.cache
 C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_21\obj\Debug\net6.0\Console_1_Shtabnov_ISP_21.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_21\obj\Debug\net6.0\Console_1_Shtabnov_ISP_21.AssemblyInfoInputs.cache
 C:\Users\Gennady\source\repos\Console_1_Shtabnov_ISP_21\Console_1_Shtabnov_ISP_21\obj\Debug\net6.0\Console_1_Shtabnov_ISP_21.AssemblyInfo.cs

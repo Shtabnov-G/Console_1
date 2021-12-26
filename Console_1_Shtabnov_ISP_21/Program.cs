@@ -3,21 +3,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApp2
-{
-    class Program_1
-    {
-        static void Main(string[] args)
-        {
-            {
-                Console.Write("Введите свое имя ");
-                string name = Console.ReadLine();
-                System.Console.WriteLine($"Привет { name}");
+//namespace ConsoleApp2
+//{
+//    class Program_1
+//    {
+//        static void Main(string[] args)
+//        {
+//            {
+//                Console.Write("Введите свое имя ");
+//                string name = Console.ReadLine();
+//                System.Console.WriteLine($"Привет { name}");
 
-            }
-        }
-    }
-}
+//            }
+//        }
+//    }
+//}
 //class Program_2
 //{
 //    static void Main(string[] args)
