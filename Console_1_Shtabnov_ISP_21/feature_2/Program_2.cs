@@ -68,7 +68,7 @@ namespace ConsoleApp2
 //        Console.ReadKey();
 //    }
 //}
-//программа для сложения двух чисел
+//программа для сложения двух чисел коммит в мастер
 class Program_6
 {
     static void Main(string[] args)
